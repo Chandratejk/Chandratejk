@@ -6,6 +6,8 @@ A cloud native data professional with 5 years of experience transforming fragmen
 
 Armed with a Master’s in Business Analytics from California State University, East Bay, I’ve architected scalable solutions across cloud first and data intensive environments. My toolbox spans GCP, AWS, Apache Spark, Kafka, Informatica, and more., but tools are just the medium. The mission? Making data work harder, faster, and smarter.
 
+Whether dissecting healthcare claims, tracking fraud patterns in banking, or decoding user behavior across digital platforms, I apply analytical thinking to surface insights that drive strategy. My work blends SQL-driven exploration with intuitive dashboarding and stakeholder-first storytelling — turning complex datasets into decisions that matter.
+
 From crafting CDC frameworks that sync global systems in real-time, to building metadata-driven ETL pipelines that think for themselves, I design with scalability, resilience, and clarity in mind. Whether it's infrastructure telemetry or digital product analytics, I deliver clean, reliable pipelines that teams can trust and business can build on.
 
 If you're building for scale and ready to make data a competitive edge — I'm all in.
