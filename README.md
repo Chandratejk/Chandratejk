@@ -34,4 +34,4 @@ If you're building for scale and ready to make data a competitive edge — I'm a
 
 
 ## 📬 Let’s Connect
-📧 chandratej712@gmail.com | 📍United States | 🔗 [LinkedIn: chandratejk](https://www.linkedin.com/in/chandratejk/)
+📧 chandratej712@gmail.com | 📍United States
