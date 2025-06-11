@@ -26,10 +26,10 @@ If you're building for scale and ready to make data a competitive edge — I'm a
 💻 **Languages:** Python (Pandas, PySpark, NumPy), SQL, Java, Groovy  
 ⚙️ **Data Engineering:** Dataflow, Glue, Dataform, Apache Spark, Kafka, Informatica CDI, DBT  
 ☁️ **Cloud:** GCP (BigQuery, Dataflow, Pub/Sub, Cloud Composer), AWS (Glue, S3, Lambda, Redshift)  
-🔁 **ETL & Workflow Orchestration:** Airflow, Composer, Spring Boot, Jenkins, Terraform, GitHub Actions 
+🔁 **ETL & Workflow Orchestration:** Airflow, Composer, Spring Boot, Jenkins, Terraform, GitHub Actions  
 📊 **Visualization & Reporting:** Power BI, Tableau, Kibana, Excel macros, Power Automate (RPA)  
 📐 **Data Modeling:** Star/Snowflake schemas, CDC, relational & NoSQL integration  
-🔐 **Governance & Compliance:** IAM, DLP, Data Catalog, PII/GDPR compliance  
+🔐 **Governance & Compliance:** IAM, DLP, Data Catalog, PII/GDPR compliance   
 
 
 
