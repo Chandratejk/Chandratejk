@@ -2,7 +2,7 @@
 ## 👋Hello! 
 # I'm Chandratej Kurella
 ### Cloud Data Engineer | Data Analyst | GCP & AWS Specialist
-A cloud native data professional with 5 years of experience transforming fragmented datasets into real-time, business-critical intelligence. I don’t just build pipelines -- I engineer ecosystems that move data with precision, power, and purpose.
+A cloud native data professional with experience transforming fragmented datasets into real-time, business-critical intelligence. I don’t just build pipelines -- I engineer ecosystems that move data with precision, power, and purpose.
 
 Armed with a Master’s in Business Analytics from California State University, East Bay, I’ve architected scalable solutions across cloud first and data intensive environments. My toolbox spans GCP, AWS, Apache Spark, Kafka, Informatica, and more., but tools are just the medium. The mission? Making data work harder, faster, and smarter.
 
