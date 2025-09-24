@@ -4,7 +4,7 @@
 ### Data Analyst | Cloud Data Engineer | GCP & AWS Specialist
 A cloud native data professional with experience transforming fragmented datasets into real-time, business-critical intelligence. I don’t just build pipelines -- I engineer ecosystems that move data with precision, power, and purpose.
 
-Armed with a Master’s in Business Analytics from California State University, East Bay, I’ve architected scalable solutions across cloud first and data intensive environments. My toolbox spans GCP, AWS, Apache Spark, Kafka, Informatica, and more., but tools are just the medium. The mission? Making data work harder, faster, and smarter.
+Armed with a Master’s in Business Analytics from California State University, East Bay, I’ve architected scalable solutions across cloud first and data intensive environments. My toolbox spans AWS,GCP, Apache Spark, Kafka, Informatica, Power BI and more., but tools are just the medium. The mission? Making data work harder, faster, and smarter.
 
 I don’t stop at pipelines, I bring the story to life through visualization. Whether in Power BI, Looker Studio, or Tableau, I design dashboards that are crisp, intuitive, and tuned to how business leaders actually think. For me, reporting isn’t about charts on a screen. it is about translating raw numbers into a visual narrative that makes patterns undeniable and decisions obvious.
 
