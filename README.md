@@ -19,6 +19,7 @@ If you're building for scale and ready to make data a competitive edge — I'm a
 ## 🏅 **Certifications**  
 
 📊 [Microsoft Certified Power BI Data Analyst](https://learn.microsoft.com/en-us/users/chandratejkurella-3395/credentials/1be065c3091f2452?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
 ☁️ [AWS Certified Data Engineer – Associate](https://www.credly.com/badges/f0571be4-c1d9-4f03-bfe5-305a84292ebb/public_url)  
 🎓 [Google Cloud Certified Professional Data Engineer](https://www.credly.com/users/chandratej-kurella)  
 
